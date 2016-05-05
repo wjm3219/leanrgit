@@ -1,2 +1,2 @@
-# leanrgit
+# learngit
 Learn git for myself. 
